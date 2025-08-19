@@ -1,10 +1,11 @@
 div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
 }
+
 body {
     background-image: url('background.jpeg');
     background-repeat: repeat;
