@@ -4,5 +4,10 @@ div {
   justify-content: center;
   align-items: center;
   padding: 50px;
-  border: 1px solid #ccc;
+}
+body {
+    background-image: url('background.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
 }
